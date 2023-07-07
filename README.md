@@ -1,5 +1,5 @@
 # outreachcell
-task for outreach cell secretary recruitmen 
+task for outreach cell secretary 2022
 <br/>
 
-Was asked to build a clone of the existing Outreachy website 
+I was asked to build a clone of the existing Outreachy website and deploy it 
